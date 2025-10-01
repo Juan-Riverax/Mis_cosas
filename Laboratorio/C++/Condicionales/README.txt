@@ -1,1 +1,1 @@
-
+condicionales hechos en clase 
